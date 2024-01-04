@@ -1,0 +1,9 @@
+//package com.redis.repository;
+//
+//import com.redis.entity.Student;
+//import org.springframework.data.jpa.repository.JpaRepository;
+//import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+//
+//@EnableJpaRepositories
+//public interface StudentMySqlRepo extends JpaRepository<Student,Long> {
+//}
